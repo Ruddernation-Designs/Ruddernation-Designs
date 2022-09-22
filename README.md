@@ -6,6 +6,7 @@
  - 💬 You can also do a full Ethical hacking course, this contains videos - <a href="https://github.com/Ruddernation-Designs/Ethical_Hacking_Video_Course" target="_blank" title="Cetified Ethical hacking course">Ethical Hacking Course (Videos).</a>
  - 📫Are you a Dummy!? if so, then this course is for you - <a href="https://github.com/Ruddernation-Designs/Dummies-PDF-books" target="_blank" title="Dummies Books">Dummies books</a>
  - ⚡ Here you can find plenty of programming books - <a href="https://github.com/Ruddernation-Designs/Programming_Books" target="_blank" title="Programming Books">Programming Books</a>
+ - ⚡ Python 3 Cheat Sheet - <a href="https://github.com/Ruddernation-Designs/python-cheat-sheet" target="_blank" title="Python 3 Cheat Sheet">Cheat Sheet</a>
 
 <!--
 **Ruddernation-Designs/Ruddernation-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
