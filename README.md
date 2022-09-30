@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)
+![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br>
+![Rudder's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddernation-Designs&theme=radical=true)
