@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* Below is to show what lanuages I use the most.
+![Rudder's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddernation-Designs&theme=radical=true)
 -->
 ![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br>
-![Rudder's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddernation-Designs&theme=radical=true)
+
