@@ -8,6 +8,10 @@
  - ⚡ Here you can find plenty of programming books - <a href="https://github.com/Ruddernation-Designs/Programming_Books" target="_blank" title="Programming Books">Programming Books</a>
  - 😄 Python 3 Cheat Sheet - <a href="https://github.com/Ruddernation-Designs/python-cheat-sheet" target="_blank" title="Python 3 Cheat Sheet">Cheat Sheet</a>
 
+### New Repositories 🌱
+
+- ⚡ JavaScript Password Generator  - <a href="https://github.com/Ruddernation-Designs/Password-Generator-JavaScript" target="_blank" title="Password Generator">View Me</a>
+
 <!--
 **Ruddernation-Designs/Ruddernation-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
