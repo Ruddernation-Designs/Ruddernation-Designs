@@ -1,8 +1,13 @@
 ### Greetings 👋
+
  - 💬 Ask me about anything to do with my repositories, especially if you need help with something.
  - 📫 You can find me @: <a href="http://stackoverflow.com/users/5774880/ruddernation-designs?tab=profile" target="_blank" title="Stack Overflow Profile">Stack Overflow</a>, <a href="https://www.youtube.com/channel/UCp9SX-9uNNxMX2KwV4XeBAA" target="_blank" title="YouTube">YouTube</a>, <a href="https://profiles.wordpress.org/ruddernationdesigns" target="_blank" title="WordPress">WordPress</a>, <a href="https://stackexchange.com/users/7615203/rudder?tab=accounts" target="_blank" title="Stack Exchange">Stack Exchange</a>, <a href="https://twitter.com/The_Real_Rudder" target="_blank" title="Twitter">Twitter</a>.
  - ⚡Here are some other accounts of mine <a href="https://github.com/Ruddernation" target="_blank" title="Stack Exchange">@Ruddernation</a> & <a href="https://github.com/Tinychat" target="_blank" title="Tinychat">@Tinychat</a>
+ 
+<a href="https://www.buymeacoffee.com/ruddernation"><img src="https://img.buymeacoffee.com/button-api/?text=Please buy me a coffee&emoji=&slug=ruddernation&button_colour=0011ff&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+ 
  ###  Information 🌱
+ 
  - 💬 You can also do a full Ethical hacking course, this contains videos - <a href="https://github.com/Ruddernation-Designs/Ethical_Hacking_Video_Course" target="_blank" title="Cetified Ethical hacking course">Ethical Hacking Course (Videos).</a>
  - 📫Are you a Dummy!? if so, then this course is for you - <a href="https://github.com/Ruddernation-Designs/Dummies-PDF-books" target="_blank" title="Dummies Books">Dummies books</a>
  - ⚡ Here you can find plenty of programming books - <a href="https://github.com/Ruddernation-Designs/Programming_Books" target="_blank" title="Programming Books">Programming Books</a>
@@ -29,4 +34,6 @@ Here are some ideas to get you started:
 ![Rudder's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddernation-Designs&theme=radical=true)
 -->
 ![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br>
+
+<a href="https://www.buymeacoffee.com/ruddernation" target="_blank"><img src="https://media.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif" alt="Buy Me A Coffee" style="height: 180 !important;width: 180 !important;" ></a>
 
