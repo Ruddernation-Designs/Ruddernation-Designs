@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 * Below is to show what lanuages I use the most.
 ![Rudder's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddernation-Designs&theme=radical=true)
 -->
-![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br>
+<!-- ![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br> -->
 
 <!-- <a href="https://www.buymeacoffee.com/ruddernation" target="_blank"><img src="https://media.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif" alt="Buy Me A Coffee" style="height: 180 !important;width: 180 !important;" ></a> -->
 
