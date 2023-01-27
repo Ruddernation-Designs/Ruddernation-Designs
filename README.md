@@ -17,6 +17,11 @@
 - 👯 HTML5 Canvas Effects  - These are HTML5 canvas effects that you simply upload to your server and open the index.html (That's in each folder) online. <a href="https://github.com/Ruddernation-Designs/Canvas-Effects" target="_blank" title="Canvas Effects">View Me</a>
 - 😄 Tinychat API  - This version of the Tinychat API is for any website running PHP without the need for WordPress, Just upload and go. <a href="https://github.com/Ruddernation-Designs/Tinychat-API" target="_blank" title="Tinychat API">View Me</a>
 
+### Updates
+
+ - 💬 I've now done a few more update to the HTML5 canvas effects (27 January 2023), I've added more for you to play around with, I hope you enjoy them, remember if you've got an issue with something not working then please contact me.
+
+
 <a href="https://www.buymeacoffee.com/ruddernation"><img src="https://img.buymeacoffee.com/button-api/?text=Please buy me a coffee&emoji=&slug=ruddernation&button_colour=0011ff&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 <!--
