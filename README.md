@@ -1,3 +1,9 @@
+### Update 
+
+ - Due to my health, I'll be a little slower at responding to comments or doing updates, this is a permanent thing.
+
+
+
 ### Greetings 👋
 
  - 💬 Ask me about anything to do with my repositories, especially if you need help with something.
