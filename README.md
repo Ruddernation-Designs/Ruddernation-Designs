@@ -3,11 +3,6 @@
  Due to my health, I'll be a little slower at responding to comments or making updates. This is a permanent thing.
 
  - I have now archived most of my repositories.
-
-
-### Greetings 👋
-
- - 💬 Ask me about anything to do with my repositories, especially if you need help.
 <!-- - 📫 You can find me @: <a href="http://stackoverflow.com/users/5774880/ruddernation-designs?tab=profile" target="_blank" title="Stack Overflow Profile">Stack Overflow</a>, <a href="https://www.youtube.com/channel/UCp9SX-9uNNxMX2KwV4XeBAA" target="_blank" title="YouTube">YouTube</a>, <a href="https://profiles.wordpress.org/ruddernationdesigns" target="_blank" title="WordPress">WordPress</a>, <a href="https://stackexchange.com/users/7615203/rudder?tab=accounts" target="_blank" title="Stack Exchange">Stack Exchange</a>.
  - ⚡Here are some other accounts of mine <a href="https://github.com/Ruddernation" target="_blank" title="Stack Exchange">@Ruddernation</a> & <a href="https://github.com/Tinychat" target="_blank" title="Tinychat">@Tinychat</a> -->
  
@@ -18,7 +13,7 @@
  - ⚡ Here you can find plenty of programming books - <a href="https://github.com/Ruddernation-Designs/Programming_Books" target="_blank" title="Programming Books">Programming Books</a>
  - 😄 Python 3 Cheat Sheet - <a href="https://github.com/Ruddernation-Designs/python-cheat-sheet" target="_blank" title="Python 3 Cheat Sheet">Cheat Sheet</a>
 
-### New Repositories 🔭 - Currenly Working On 🌱
+### Extra Repositories 🔭
 
 - ⚡ JavaScript Password Generator  - This password generator is written in JavaScript and includes the HTML and CSS for an instant password generator page. <a href="https://github.com/Ruddernation-Designs/Password-Generator-JavaScript" target="_blank" title="Password Generator">View Me</a>
 - 👯 HTML5 Canvas Effects  - These are HTML5 canvas effects that you upload to your server and open the index.html (In each folder) online. <a href="https://github.com/Ruddernation-Designs/Canvas-Effects" target="_blank" title="Canvas Effects">View Me</a>
@@ -26,10 +21,10 @@
 
 ### Updates
 
- - 💬 I've now done a few more updates to the HTML5 canvas effects (27 January 2023), and I've added more for you to play around with. I hope you enjoy them. Remember, if you've got an issue with something not working, then please contact me.
+ - 💬 I've now done a few more updates to the HTML5 canvas effects (27 January 2023), and I've added more for you to play around with. I hope you enjoy them.
 
 
-<a href="https://www.buymeacoffee.com/ruddernation"><img src="https://img.buymeacoffee.com/button-api/?text=Please buy me a coffee&emoji=&slug=ruddernation&button_colour=0011ff&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<!-- <a href="https://www.buymeacoffee.com/ruddernation"><img src="https://img.buymeacoffee.com/button-api/?text=Please buy me a coffee&emoji=&slug=ruddernation&button_colour=0011ff&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a> --> 
 
 
 <p align="center">
