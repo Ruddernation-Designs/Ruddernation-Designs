@@ -49,5 +49,3 @@ Here are some ideas to get you started:
 -->
 <!-- ![Rudder's github stats](https://github-readme-stats.vercel.app/api?username=Ruddernation-Designs&theme=radical&show_icons=true)<br> -->
 
-<a href="https://www.buymeacoffee.com/ruddernation" target="_blank"><img src="https://media.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif" alt="Buy Me A Coffee" style="height: 180 !important;width: 180 !important;" ></a>
-
