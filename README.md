@@ -1,4 +1,7 @@
 ### Update 
+I have now found all of my anarchy books including banned books,
+I'm not sure if I'll be able to post them,
+but if you personally would like them then let me know.
 
  Due to my health, I'll be a little slower at responding to comments or making updates. This is a permanent thing.
 
