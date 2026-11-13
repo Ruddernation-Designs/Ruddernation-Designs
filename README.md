@@ -1,9 +1,13 @@
 ### Update 
-I have now found all of my anarchy books including banned books,
-I'm not sure if I'll be able to post them,
-but if you personally would like them then let me know.
+It seems my "Dummies" books repository has been closed due to the DMCA
+I'm not sure why as I've heard nothing; I just randomly checked, I get "Repository unavailable due to DMCA takedown.".
 
- Due to my health, I'll be a little slower at responding to comments or making updates. This is a permanent thing.
+Oh well, I'm a bit too ill to counterstrike, it was up for about 10 years... 
+
+
+
+ Due to my health, I'll be a little slower at responding to comments or making updates. 
+ This is a permanent thing, unfortunately.
 
  - I have now archived most of my repositories.
 <!-- - 📫 You can find me @: <a href="http://stackoverflow.com/users/5774880/ruddernation-designs?tab=profile" target="_blank" title="Stack Overflow Profile">Stack Overflow</a>, <a href="https://www.youtube.com/channel/UCp9SX-9uNNxMX2KwV4XeBAA" target="_blank" title="YouTube">YouTube</a>, <a href="https://profiles.wordpress.org/ruddernationdesigns" target="_blank" title="WordPress">WordPress</a>, <a href="https://stackexchange.com/users/7615203/rudder?tab=accounts" target="_blank" title="Stack Exchange">Stack Exchange</a>.
